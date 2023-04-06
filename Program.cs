@@ -7,4 +7,6 @@ Console.WriteLine(sl.Add2Numbers(3, 4));
 
 Console.WriteLine(sl.Multiply2Numbers(3,4));
 
+Console.WriteLine(sl.Subtract2Numbers(4,2));
+
 
